@@ -11,5 +11,5 @@
 
 · TFTLCD
 
-· OLED
+· OLED(IIC)
 
