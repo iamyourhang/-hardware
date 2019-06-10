@@ -13,4 +13,6 @@
 
 · OLED(IIC)
 
+· bluetooth(HC05)
+
 持续更新中
